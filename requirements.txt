@@ -1,0 +1,7 @@
+# H2O2 세포독성 MTT Assay - IC50 분석 의존성
+pandas
+numpy
+matplotlib
+openpyxl     # .xlsx 읽기 (pandas read_excel 백엔드)
+lmfit        # 4PL 비선형 회귀 + 신뢰구간
+# 노트북 실행에는 jupyter 또는 jupyterlab 필요: pip install jupyter
